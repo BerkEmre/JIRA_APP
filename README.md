@@ -12,3 +12,6 @@ Atlassian Jira Plugin geliştirebilmek için,
 1. IDE Editörü kullanmanız geliştirme yapmanızı kolaylaştıracaktır, ben [VSCode](https://code.visualstudio.com/download) tavsiye ederim.
 2. PC nize [Node.JS](https://nodejs.org/) kurulumu yapmanız gerekmektedir. Ayrıca Node.js ile birlikte gelen npm'ye de ihtiyacınız var.
 3. Yerel geliştirme ortamınızı internete tünellemek için, yani kendi pc nizden yayın yaparak jira da test yapabilmeniz için [ngrok](https://ngrok.com/download) kurmalısınız.
+
+##Başlamadan Önce
+1. Testlerinizi yapabilmeniz için [buradan]([****](http://go.atlassian.com/cloud-dev) kendinize bir test jira ortamı oluşturun. 
