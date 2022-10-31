@@ -1,4 +1,4 @@
-# JIRA_APP
+# Atlassian Jira Plugin Geliştirmek
 Atlassian Jira plugin geliştirirken, türkçe kaynak olarak kullanılabilecek bir proje.
 
 ## Ön Bilgi
