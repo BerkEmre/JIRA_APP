@@ -4,7 +4,7 @@ Atlassian Jira plugin geliştirirken, türkçe kaynak olarak kullanılabilecek b
 ## Ön Bilgi
 Jira plugin geliştirmek için iki yöntem mevcut bunlar Forge ve Connect, bu iki yöntemden biri ile geliştirme yapabilirsiniz.
 
-Biz bu dökümanda Connect kullanarak geliştirme yapacağız, bunun sebebi Forge biraz daha karışık ve daha fazla bağımlığı sahip olması.
+Biz bu dökümanda Connect kullanarak geliştirme yapacağız, bunun sebebi Forge biraz daha karışık ve daha fazla bağımlığa sahip olması.
 
 Atlassian'ın kendi dökümanını incelemek [isterseniz](https://developer.atlassian.com/cloud/jira/platform/getting-started-with-connect/).
 
