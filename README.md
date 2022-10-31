@@ -24,6 +24,7 @@ Atlassian Jira Plugin geliştirebilmek için,
 1. Testlerinizi yapabilmeniz için [buradan](http://go.atlassian.com/cloud-dev) kendinize bir test jira ortamı oluşturun. 
 2. [Burada](https://developer.atlassian.com/cloud/jira/platform/getting-started-with-connect/#step-2--enable-development-mode-in-your-site) anlatıldığı gibi geliştirme modunuzu aktifleştirin.
 3. Gerekli kütüphaneleri node.js için kurun.
+
 NGROK kurulumu
 ```
 npm install -g ngrok 
