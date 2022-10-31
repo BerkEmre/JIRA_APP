@@ -26,7 +26,7 @@ NGROK tan aldığınız tokeni tanımlayın
 ```
 ngrok authtoken <token>
 ```
-
+---
 Tebrikler, artık uygulama geliştirmeye başlayabilirsiniz.
 
 Eğer bana soru sormak isterseniz.
